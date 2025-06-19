@@ -1,0 +1,15 @@
+{
+    "name": "Vladilen",
+    "age": 30,
+    "C#": true,
+    "hobbies": [ "programming", "sport", "drive" ],
+    "address": null,
+    "projects": [
+        {
+            "name": "Result University","type": "learning"
+        },
+        {
+            "name":  "Private Telegram","type": "uniq content & money"
+        }
+    ]
+}
